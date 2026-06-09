@@ -1,4 +1,4 @@
-# 🚀 NextHire: Enterprise HR Onboarding Platform (Portfolio)
+# 🚀 NextRecruit: Enterprise HR Onboarding Platform (Portfolio)
 
 A showcase of modern Front-End engineering, featuring a high-converting marketing landing page and a fully functional enterprise-grade onboarding dashboard. Built to demonstrate proficiency in modern component-based architecture, state management, and premium UI/UX implementation.
 

@@ -60,17 +60,15 @@ onMounted(() => {
       <div class="noise-overlay"></div>
     </div>
 
-    <nav :class="['navbar', { 'scrolled': isScrolled }]">
-      <div class="nav-container">
-        <div class="logo">
-          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="logo-icon"><path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"/></svg>
-          <span class="logo-text">NextHire</span>
-        </div>
-        <div class="nav-items">
+    <nav class="navbar">
+      <div class="logo">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"></path></svg>
+        <span>NextRecruit</span>
+      </div>
+      <div class="nav-links">
           <a href="#platform" class="nav-link">Platform</a>
           <a href="#solutions" class="nav-link">Solutions</a>
           <button class="btn-glow">Start Free</button>
-        </div>
       </div>
     </nav>
 
